@@ -3,3 +3,6 @@ __pycache__
 dataset
 models
 
+ds_dagger
+*.log
+gpu_time.txt
